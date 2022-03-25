@@ -39,6 +39,10 @@
 - HTML5
 - CSS3
 
+## ScreenShopt
+
+![Single Price Component](./design/desktop-preview.jpg)
+
 ## Crédito
 
 Este es un proyecto inspirado de la plataforma [FrontendMentor.io](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc) desarrollado por [CristhianJHL.com](https://cristhianjhl.com?utm_source=github&utm_medium=referrer&utm_campaign=single_price_component)
