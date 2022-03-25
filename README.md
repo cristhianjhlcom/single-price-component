@@ -41,11 +41,11 @@
 
 ## Crédito
 
-Este es un proyecto inspirado de la plataforma [FrontendMentor.io](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc) desarrollado por [CristhianJHL.com][https://cristhianjhl.com?utm_source=github&utm_medium=referrer&utm_campaign=readme]
+Este es un proyecto inspirado de la plataforma [FrontendMentor.io](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc) desarrollado por [CristhianJHL.com](https://cristhianjhl.com?utm_source=github&utm_medium=referrer&utm_campaign=readme)
 
 Si me quieres hacer alguna sugerencia sobre algun proyecto por desarrollar, puedes escribirme en:
 
 - 🕊 [Twitter.com](https://twitter.com/cristhianjhlweb)
-- 📘 [LinkedIn](https://www.linkedin.com/in/cristhianjhl/)
+- 📘 [LinkedIn.com](https://www.linkedin.com/in/cristhianjhl/)
 
 Hice este proyecto en vivo transmitiendo por [Twitch.tv](https://twitch.tv/ihasaku)
