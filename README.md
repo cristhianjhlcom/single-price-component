@@ -39,7 +39,7 @@
 - HTML5
 - CSS3
 
-## ScreenShopt
+## ScreenShot
 
 ![Single Price Component](./design/desktop-preview.jpg)
 
