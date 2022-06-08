@@ -52,4 +52,4 @@ Si me quieres hacer alguna sugerencia sobre algun proyecto por desarrollar, pued
 - 🕊 [Twitter.com](https://twitter.com/cristhianjhlweb)
 - 📘 [LinkedIn.com](https://www.linkedin.com/in/cristhianjhl/)
 
-Hice este proyecto en vivo transmitiendo por [Twitch.tv](https://twitch.tv/ihasaku)
+Hice este proyecto en vivo transmitiendo por [Twitch.tv](https://twitch.tv/cristhianjhlweb)
